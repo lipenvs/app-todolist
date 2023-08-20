@@ -29,7 +29,3 @@ Este é um aplicativo móvel desenvolvido em React Native que permite que você 
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas e enviar solicitações pull.
-
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
