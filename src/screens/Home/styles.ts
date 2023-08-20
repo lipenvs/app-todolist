@@ -50,4 +50,35 @@ export const styles = StyleSheet.create({
     height: 52,
     borderRadius: 6,
   },
+
+  criadasConcluidas: {
+    flexDirection: "row",
+    justifyContent: "space-between",
+    marginHorizontal: 24,
+    paddingBottom: 20,
+  },
+
+  criadas: {
+    color: "#4EA8DE",
+    fontWeight: "bold",
+  },
+
+  concluidas: {
+    color: "#8284FA",
+    fontWeight: "bold",
+  },
+
+  linhaQtd: {
+    flexDirection: "row",
+    alignItems: "center",
+    gap: 8,
+  },
+
+  qtd: {
+    color: "#F2F2F2",
+    paddingVertical: 2,
+    paddingHorizontal: 8,
+    backgroundColor: "#333333",
+    borderRadius: 10,
+  },
 });
