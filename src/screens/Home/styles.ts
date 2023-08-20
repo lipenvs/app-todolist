@@ -81,4 +81,27 @@ export const styles = StyleSheet.create({
     backgroundColor: "#333333",
     borderRadius: 10,
   },
+
+  emptyList: {
+    flex: 1,
+    marginHorizontal: 24,
+    paddingTop: 48,
+    borderTopWidth: 1,
+    borderColor: "#333333",
+    alignItems: "center",
+    justifyContent: "center",
+  },
+
+  titleEmpty: {
+    color: "#808080",
+    fontWeight: "bold",
+  },
+
+  msgEmpty: {
+    color: "#808080",
+  },
+
+  imgEmpty: {
+    marginBottom: 16,
+  },
 });

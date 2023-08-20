@@ -13,9 +13,17 @@ export const styles = StyleSheet.create({
     marginBottom: 8,
   },
 
-  taskText: {
+  textCheck: {
+    flex: 1,
+    color: "#808080",
+    textDecorationLine: "line-through",
+    fontSize: 14,
+  },
+
+  textUncheck: {
     flex: 1,
     color: "#F2F2F2",
+    fontSize: 14,
   },
 
   taskLine: {
