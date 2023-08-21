@@ -9,14 +9,10 @@ type Props = {
 };
 
 export default function Task(props: Props) {
-  function handleCheck() {
-    props.onCheck();
-  }
-
   return (
     <View style={styles.taskContainer}>
       <View style={styles.taskLine}>
-        <TouchableOpacity style={styles.btnCheck} onPress={handleCheck}>
+        <TouchableOpacity style={styles.btnCheck} onPress={props.onCheck}>
           <Image
             source={
               props.check
