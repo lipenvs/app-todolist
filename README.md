@@ -14,18 +14,12 @@ Este é um aplicativo móvel desenvolvido em React Native que permite que você 
 ![Captura de Tela 1](screenshots/screenshot1.png)
 ![Captura de Tela 2](screenshots/screenshot2.png)
 
-## Instalação
+## Instalação & Execução
 
 1. Certifique-se de ter o ambiente de desenvolvimento React Native configurado em seu sistema.
 2. Clone este repositório: `git clone https://github.com/lipenvs/app-todolist.git`
 3. Instale as dependências: `npm install`
 4. Execute o aplicativo via expo `npx expo start`
-
-## Uso
-
-1. Certifique-se de ter um emulador ou dispositivo físico pronto com Expo Go instalado.
-2. Inicie o aplicativo: `npx expo start`
-3. Com o Expo Go aberto no dispositivo físico, escanei o QR Code para rodar ou aplicativo ou pressione `A` para rodar no emulador configurado na máquina.
 
 ## Contribuição
 
