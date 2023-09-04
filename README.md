@@ -19,6 +19,7 @@ Este é um aplicativo móvel desenvolvido em React Native que permite que você 
 1. Certifique-se de ter o ambiente de desenvolvimento React Native configurado em seu sistema.
 2. Clone este repositório: `git clone https://github.com/lipenvs/app-todolist.git`
 3. Instale as dependências: `npm install`
+4. Execute o aplicativo via expo `npx expo start`
 
 ## Uso
 
